@@ -14,4 +14,4 @@ This repository contains the **financial principles, funding, and utilization mo
 
 - `TOKENOMICS.md` → Detailed tokenomics & finance report
 - `FUNDING.md` → Funding policy and allocation principles
-- `ASSETS/` → Supporting diagrams or charts
+
