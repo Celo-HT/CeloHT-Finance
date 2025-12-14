@@ -8,7 +8,7 @@ It is a decentralized platform leveraging **Celo cUSD** via **Valora**, focused 
 2. Agents
 3. Reforestation
 
-This repository contains the **financial principles, funding, and utilization model** of CeloHT.
+This repository contains the **financial principles, funding, and utilization model** of CeloHT. 
 
 ## Contents
 
